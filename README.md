@@ -6,7 +6,7 @@
 
 Студент 4 курса УрФУ (ИРИТ-РтФ) · 09.03.01 Информатика и вычислительная техника
 
-<a href="https://t.me/razumm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/razumm5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/razumm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -114,11 +114,11 @@ class Egor:
 
 | Проект | Описание | Стек |
 |:---|:---|:---|
-| 🖼 **[Название](#)** | Дообучение русскоязычной Vision-Language модели | PyTorch · Transformers · LoRA |
-| 🐕 **[Название](#)** | Модель детекции бездомных собак | CV · PyTorch |
-| 🦠 **[Название](#)** | Прогнозирование численности зоопланктона | scikit-learn · Pandas |
-| 🤝 **[Название](#)** | ИИ-помощник по социальной поддержке | LLM · RAG · FastAPI |
-| 🏛 **[Название](#)** | Диалоговый гид для музея | NLP · LLM |
+| 🖼 **[ru-vlm-tune](#)** | Дообучение русскоязычной Vision-Language модели | PyTorch · Transformers · LoRA |
+| 🐕 **[stray-dog-detector](#)** | Детекция бездомных собак на городских камерах | CV · PyTorch |
+| 🦠 **[plankton-forecast](#)** | Прогнозирование численности зоопланктона | scikit-learn · Pandas |
+| 🤝 **[social-aid-assistant](#)** | ИИ-помощник по мерам социальной поддержки | LLM · RAG · FastAPI |
+| 🏛 **[museum-guide-bot](#)** | Диалоговый гид по экспозиции музея | NLP · LLM |
 
 ---
 
@@ -126,16 +126,3 @@ class Egor:
 
 **VK Education** — производственная практика
 Дообучение русскоязычной Vision-Language модели (VLM).
-
----
-
-## 📊 Статистика
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=razumm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razumm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Streak](https://streak-stats.demolab.com?user=razumm&theme=tokyonight&hide_border=true)
-
-</div>
