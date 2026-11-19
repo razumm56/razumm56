@@ -94,6 +94,7 @@ class Egor:
 |:---|:---|:---|
 | 🖼 **[ru-vlm-tune](https://github.com/razumm56/practice_vk)** | Дообучение русскоязычной Vision-Language модели | PyTorch · Transformers · LoRA |
 | 🐕 **[stray-dog-detector](https://github.com/razumm56/25.1-dog-detection)** | Детекция бездомных собак на городских камерах | CV · PyTorch |
+| 🐶 **[Dog_breed_project](https://github.com/razumm56/Dog_breed_project)** | Классификация 120 пород собак по фото с топ-5 предсказаниями | PyTorch · Torchvision · Streamlit |
 | 💬 **[CommentRatingSite](https://github.com/razumm56/CommentRatingSite)** | Веб-сервис анализа тональности комментариев ВКонтакте | NLP · scikit-learn · Django · React |
 | 🤝 **[social-aid-assistant](https://github.com/razumm56/social_help)** | ИИ-помощник по мерам социальной поддержки | LLM · RAG · FastAPI |
 | 🏛 **[museum-guide-bot](https://github.com/razumm56/25.2-museum-bot)** | Диалоговый гид по экспозиции музея | NLP · LLM |
